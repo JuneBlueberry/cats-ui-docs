@@ -1,11 +1,11 @@
 ---
 home: true
-heroImage: /logo.jpg
+heroImage: /logo2.png
 actions:
-  - text: 快速上手 →
+  - text: 快速上手
     link: /comps/
     type: primary
-  - text: 更新日志 →
+  - text: 更新日志
     link: /comps/
     type: secondary
 features:

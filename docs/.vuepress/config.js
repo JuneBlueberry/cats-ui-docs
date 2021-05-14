@@ -1,10 +1,10 @@
 module.exports = {
   lang: 'zh-CN',
-  title: 'CatsUI',
+  title: 'CAT-UI',
   description: 'an ui of vue3.X',
   // 注入到当前页面的 HTML <head> 中的标签
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }], // 增加一个自定义的 favicon(网页标签的图标)
+    ['link', { rel: 'icon', href: '/icon.ico' }], // 增加一个自定义的 favicon(网页标签的图标)
   ],
   //base: '/web_accumulate/', // 这是部署到github相关的配置 下面会讲
   markdown: {
